@@ -1,4 +1,7 @@
+
 # mud
+
+[Waitlist](https://getwaitlist.com/waitlist/11113)
 
 [mud quick start](https://mud.dev/quick-start)
 
